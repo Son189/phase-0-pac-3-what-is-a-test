@@ -1,0 +1,1 @@
+const {name ,height ,message } = Require ( "../index.js");
